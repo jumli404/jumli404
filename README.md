@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web-developing**
 
-- 👨‍💻 All of my projects are available at [github.com/jaschaon](github.com/jaschaon)
+- 👨‍💻 All of my projects are available at [github.com/jaschaon](github.com/jumli404)
 
 - 💬 Ask me about **JavaScript**
 
