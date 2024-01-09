@@ -12,7 +12,7 @@
    ‎ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumli404 Instagram" height="30" width="40" />
   </a>
 </p>
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning </Br>
 - 👨‍💻 All of my projects are available here :)</br> 
 - 💬 trying for <B>FULL STACK</B>
 <h3 align="left">Languages and Tools:</h3>
