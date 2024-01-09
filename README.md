@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jumli404" alt="jumli404 Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jumli404" alt="jumli404 Trophy"/>
   </a>
 </p>
 
@@ -12,10 +12,9 @@
    ‎ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumli404 Instagram" height="30" width="40" />
   </a>
 </p>
-
 - 🌱 I’m currently learning **web development**
-- 👨‍💻 All of my projects are available at [github.com/jumli404](https://github.com/jumli404)
-- 💬 Ask me about **JavaScript**
+- 👨‍💻 All of my projects are available here :) 
+- 💬 Searching for a guidance for  **Full stack web developer**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
