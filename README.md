@@ -12,8 +12,8 @@
    ‎ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumli404 Instagram" height="30" width="40" />
   </a>
 </p>
-- 🌱 I’m currently learning **web development**
-- 👨‍💻 All of my projects are available here :) 
+- 🌱 I’m currently learning **web development**</br>
+- 👨‍💻 All of my projects are available here :)</br> 
 - 💬 Searching for a guidance for  **Full stack web developer**
 
 <h3 align="left">Languages and Tools:</h3>
