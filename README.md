@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/jumli404/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumli404 Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/nexavision/" target="_blank">
+   ‎ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumli404 Instagram" height="30" width="40" />
   </a>
 </p>
 
