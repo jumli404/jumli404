@@ -14,7 +14,7 @@
 </p>
 - 🌱 I’m currently learning </Br>
 - 👨‍💻 All of my projects are available here :)</br> 
-- 💬 trying for <B>FULL STACK</B>
+- 💬 trying for <B> <cite>FULL STACK</cite></B>
 <h3 align="left">I have a basic knowledge of :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
