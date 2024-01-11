@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jumli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -14,7 +14,7 @@
 </p>
 - 🌱 I’m currently learning </Br>
 - 👨‍💻 All of my projects are available here :)</br> 
-- 💬 trying for <B> <cite>FULL STACK</cite></B>
+- 💬 trying for <B> FULL STACK</B>
 <h3 align="left">I have a basic knowledge of :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
