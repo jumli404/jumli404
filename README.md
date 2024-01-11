@@ -40,6 +40,6 @@
   </a>
 </p>
 
-<p align="center" style="background-color: rgba(0, 0, 0, 0.944);>
+<p align="center";>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumli404&show_icons=true&locale=en&layout=compact" alt="jumli404 Top Languages" />
 </p>
