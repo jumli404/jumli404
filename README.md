@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/nexavision/" target="_blank">
-   ‎ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumli404 Instagram" height="30" width="40" />
   </a>
 </p>
 - 🌱 I’m currently learning </Br>
@@ -40,6 +38,6 @@
   </a>
 </p>
 
-<p align="center"; style="color: black;">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumli404&show_icons=true&locale=en&layout=compact&theme=dark" alt="jumli404 Top Languages" />
 </p>
