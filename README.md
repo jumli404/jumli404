@@ -9,7 +9,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jumli404&show_icons=true&locale=en&layout=compact&theme=dark"
         alt="jumli404 Top Languages" />
 </p>
-<p><img align="center" style="position: relative; top: 0px; "
+<p><img align="center" style="position: relative; top: -200px; "
         src="https://github-readme-stats.vercel.app/api?username=jumli404&show_icons=true&locale=en&theme=dark"
         alt="jumli404" /></p>
 <p>
