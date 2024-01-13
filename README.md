@@ -10,3 +10,6 @@
     <p><img align="center"
             src="https://github-readme-stats.vercel.app/api?username=jumli404&show_icons=true&locale=en&theme=dark"
             alt="jumli404" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumli404&" alt="jumli404" />
+</p>
