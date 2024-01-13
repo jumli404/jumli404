@@ -7,3 +7,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumli404&show_icons=true&locale=en&layout=compact&theme=dark" alt="jumli404 Top Languages" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumli404" alt="jumli404" /></p>
