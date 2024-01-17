@@ -11,5 +11,5 @@
         src="https://github-readme-stats.vercel.app/api?username=jumli404&show_icons=true&locale=en&theme=dark"
         alt="jumli404" /></p>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jumli404&&theme=dark" alt="jumli" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jumli404&theme=dark" alt="jumli404" />
 </p> 
