@@ -5,7 +5,7 @@
 <p>
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jumli404&show_icons=true&locale=en&layout=compact&theme=dark"
-        alt="jumli404 Top Languages" />
+        alt="jumli404 Top Languages" /> 
 </p>
 <p><img align="center"; 
         src="https://github-readme-stats.vercel.app/api?username=jumli404&show_icons=true&locale=en&theme=dark"
